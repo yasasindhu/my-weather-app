@@ -1,0 +1,15 @@
+<style>
+.container {
+	width: 414px;
+	display: flex;
+	flex-direction: column;
+	background-image: url('http://bestanimations.com/Nature/winter/winter-snow-nature-animated-gif-23.gif');
+	background-attachment: fixed;
+    background-size:cover;
+	color: #fff;
+	margin: 0 auto;
+	font-family: acumin-pro-condensed, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+}
+</style>
